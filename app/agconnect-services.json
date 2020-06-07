@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"2640095000000333633",
+		"product_id":"736430079244470068",
+		"client_id":"370174482486133824",
+		"client_secret":"CFD9F19764EB6422AFE1EE22AEFE4F76DCC9EE06A184D73DC13F4C6C414F7C7B",
+		"app_id":"102276649",
+		"package_name":"com.example.huaweimapkit",
+		"api_key":"CV7zIgJl9qVGDCVG/BG2xyt+JeOv0YEhOCbDfJOlt106zQNN0Y8CyzD4Y6sqrlhYxIBw65X6UPfWA5lyXg18NlN8OqO3"
+	},
+	"configuration_version":"1.0"
+}
